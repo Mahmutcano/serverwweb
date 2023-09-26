@@ -90,6 +90,7 @@ const Footer = () => {
                       href="tel:+905394262425"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                       target="_blank"
+                      rel="noopener noreferrer"
                     >
                       <b>+90 539 426 24 25</b>
                     </a>
@@ -101,6 +102,7 @@ const Footer = () => {
                       href="mailto:av.muratcandeniz@gmail.com"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                       target="_blank"
+                      rel="noopener noreferrer"
                     >
                       {" "}
                       <b>av.muratcandeniz@gmail.com</b>
@@ -113,6 +115,7 @@ const Footer = () => {
                       href="https://www.google.com/maps/search/?q=Eti%2C+Strazburg+Cd.+12%2F2+Kat+%3A+1%2C+06570+S%C4%B1hhiye+-+%C3%87ankaya%2F%C3%87ankaya%2FAnkara"
                       className="mb-4 inline-block text-base font-medium text-body-color hover:text-primary"
                       target="_blank"
+                      rel="noopener noreferrer"
                     >
                       {" "}
                       Eti, Strazburg Cd. 12/2 Kat : 1, 06570 Sıhhiye -
